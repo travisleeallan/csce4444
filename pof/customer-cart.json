@@ -1,0 +1,39 @@
+{
+  "where": "TO GO",
+  "assist": 0,
+  "refill": 0,
+  "cart": [
+    {
+      "fooditem": "Chips & Salsa",
+      "price": "5"
+    },
+    {
+      "fooditem": "Buffalo Wings",
+      "price": "4"
+    },
+    {
+      "fooditem": "Chips & Salsa",
+      "price": "5"
+    },
+    {
+      "fooditem": "Seafood Alfredo",
+      "price": "12"
+    },
+    {
+      "fooditem": "Chips & Salsa",
+      "price": "5"
+    },
+    {
+      "fooditem": "Chips & Salsa",
+      "price": "5"
+    },
+    {
+      "fooditem": "Buffalo Wings",
+      "price": "4"
+    },
+    {
+      "fooditem": "Buffalo Wings",
+      "price": "4"
+    }
+  ]
+}
